@@ -3,6 +3,6 @@ def using_times
     puts "Penguins liek to jump off icebergs!"
 end
 
-
+using_times
 
 
