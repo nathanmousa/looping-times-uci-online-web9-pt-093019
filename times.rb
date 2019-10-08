@@ -13,7 +13,11 @@
 #  puts "We have #{jewels_in_bag} jewels still to hide!"
 #end
 
-
+def using_times
+  7.times do
+    puts "Penguins like to jump off icebergs!"
+#  end
+#end
 
 using_times
 
